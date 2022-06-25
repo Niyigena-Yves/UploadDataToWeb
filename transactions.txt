@@ -1,0 +1,21 @@
+System Ready!
+_______________________________
+New transaction processing...
+********************
+Initial Balance: 208315
+Fare to Kimironko: 450
+New Balance: 207865.00
+Timestamp: Monday 2022-06-13 08:40:18
+********************
+Status: Success
+_______________________________
+_______________________________
+New transaction processing...
+********************
+Initial Balance: 207865
+Fare to Kimironko: 450
+New Balance: 207415.00
+Timestamp: Monday 2022-06-13 08:40:33
+********************
+Status: Success
+_______________________________
